@@ -1,5 +1,4 @@
 # SWR
-A simple wire frame renderer
 SWR is a simple wireframe renderer written with the hope that it will be beneficial to the people who
 try to understand the modelling, viewing and projection part of the graphics rendering pipeline. The reader will also get an idea of
 how low level graphics apis like OpenGL and DirectX works after reading this code.
