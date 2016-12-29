@@ -10,7 +10,7 @@ Known issues:
 The project is done using GDI calls. So it will be slow. 
 The frustum clipping is yet to be done, therefore the rendered image may get inverted when it is behind the camera.  
   
-Features Implemented:
+Features Implemented:  
 Right handed coordinate system  
 Vector concept  
 Matrix concept  
