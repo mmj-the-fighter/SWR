@@ -19,7 +19,6 @@ Modelling transformations
 View transformation
    LookAt 
    View axes
-Modelview transformation
 Projection transformations
     Orthographic projection
     Perspective projection
@@ -32,8 +31,8 @@ Drawing line with depth interpolation
 Backface culling with signed triangle area computation
 Rendering points
 Rendering triangle lists
-z buffering
+Z-buffering
 
 Acknowledgements:
 Mesa3d 3.0 Project (Viewport transformation, Perspective projection)
-Scratchpixel project(z-buffering)
+Scratchpixel project(Z-buffering)
