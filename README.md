@@ -8,35 +8,26 @@ understand this code and will need Visual studio express edition 2008 or later t
 
 Known issues: 
 The project is done using GDI calls. So it will be slow. 
-The frustum clipping is yet to be done, therefore the rendered image may get inverted when it is behind the camera.
-
+The frustum clipping is yet to be done, therefore the rendered image may get inverted when it is behind the camera.  
+  
 Features Implemented:
 Right handed coordinate system  
 Vector concept  
 Matrix concept  
-Modelling transformations  
-  Scaling, Rotation and Translation  
-View transformation  
-
-
-    
-
-   LookAt ,
-   View axes, 
-Projection transformations
-    Orthographic projection
-    Perspective projection
-Perspective division
-Viewport transformation
-Vertex and index buffers
-Loading Wavefront Object file
-Drawing line
-Drawing line with depth interpolation
-Backface culling with signed triangle area computation
-Rendering points
-Rendering triangle lists
-Z-buffering
-
-Acknowledgements:
-Mesa3d 3.0 Project (Viewport transformation, Perspective projection)
-Scratchpixel project(Z-buffering)
+Modelling transformations (Scaling, Rotation and Translation)  
+View transformation  (LookAt , View axes )  
+Projection transformations (Orthographic, Perspective)  
+Perspective division  
+Viewport transformation  
+Vertex and index buffers  
+Loading Wavefront Object file  
+Drawing line with depth interpolation  
+Backface culling with signed triangle area computation  
+Rendering points  
+Rendering triangle lists  
+Z-buffering  
+Copying color buffer to Window  
+  
+Acknowledgements:  
+Mesa3d 3.0 Project (Viewport transformation, Perspective projection)  
+Scratchpixel project(Z-buffering)  
