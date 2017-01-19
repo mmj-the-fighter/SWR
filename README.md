@@ -29,5 +29,6 @@ Z-buffering
 Copying color buffer to Window  
   
 Acknowledgements:  
-Mesa3d 3.0 Project (Viewport transformation, Perspective projection)  
-Scratchpixel project(Z-buffering)  
+Book:Computer Graphics by F.S. Hill Jr. (View transformation)  
+Mesa3d 3.0  (Viewport transformation, Perspective projection, Z-buffering)  
+https://www.scratchapixel.com/ (Z-buffering)  
